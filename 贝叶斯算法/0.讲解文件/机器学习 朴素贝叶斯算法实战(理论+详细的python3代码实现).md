@@ -815,7 +815,7 @@ Python中文分词组件使用简单：
 - 民间教程：https://www.oschina.net/p/jieba
 - 官方教程：https://github.com/fxsjy/jieba
 
-新闻分类数据集我也已经准备好，可以到我的Github进行下载：数据集下载
+新闻分类数据集我也已经准备好，可以到我的Github进行下载：[数据集下载](https://github.com/yaoguangju/machine_learning/blob/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%AE%97%E6%B3%95/3.%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%B9%8B%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB%E5%88%86%E7%B1%BB/stopwords_cn.txt)
 
 数据集已经做好分类，分文件夹保存，分类结果如下：
 
