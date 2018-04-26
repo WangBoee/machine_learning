@@ -19,5 +19,9 @@
 - [预测鲍鱼的年龄](https://github.com/yaoguangju/machine_learning/tree/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/2.%E9%A2%84%E6%B5%8B%E9%B2%8D%E9%B1%BC%E7%9A%84%E5%B9%B4%E9%BE%84)
 - [预测乐高玩具套件的价格](https://github.com/yaoguangju/machine_learning/tree/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/3.%E9%A2%84%E6%B5%8B%E4%B9%90%E9%AB%98%E7%8E%A9%E5%85%B7%E5%A5%97%E4%BB%B6%E7%9A%84%E4%BB%B7%E6%A0%BC)
 
+## 5.Logistic回归
+- [梯度上升算法](https://github.com/yaoguangju/machine_learning/tree/master/Logistic%E5%9B%9E%E5%BD%92/1.%E6%A2%AF%E5%BA%A6%E4%B8%8A%E5%8D%87%E7%AE%97%E6%B3%95)
+- [从疝气病症状预测病马的死亡率](https://github.com/yaoguangju/machine_learning/tree/master/Logistic%E5%9B%9E%E5%BD%92/2.%E4%BB%8E%E7%96%9D%E6%B0%94%E7%97%85%E7%97%87%E7%8A%B6%E9%A2%84%E6%B5%8B%E7%97%85%E9%A9%AC%E7%9A%84%E6%AD%BB%E4%BA%A1%E7%8E%87)
+
 ## 参考资料
 - [机器学习实战](https://github.com/yaoguangju/shared_documents)
