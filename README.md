@@ -23,5 +23,11 @@
 - [梯度上升算法](https://github.com/yaoguangju/machine_learning/tree/master/Logistic%E5%9B%9E%E5%BD%92/1.%E6%A2%AF%E5%BA%A6%E4%B8%8A%E5%8D%87%E7%AE%97%E6%B3%95)
 - [从疝气病症状预测病马的死亡率](https://github.com/yaoguangju/machine_learning/tree/master/Logistic%E5%9B%9E%E5%BD%92/2.%E4%BB%8E%E7%96%9D%E6%B0%94%E7%97%85%E7%97%87%E7%8A%B6%E9%A2%84%E6%B5%8B%E7%97%85%E9%A9%AC%E7%9A%84%E6%AD%BB%E4%BA%A1%E7%8E%87)
 
+
+## 6.支持向量机
+- [线性SVM](https://github.com/yaoguangju/machine_learning/tree/master/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/1.%E7%BA%BF%E6%80%A7SVM)
+- [非线性SVM](https://github.com/yaoguangju/machine_learning/tree/master/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/2.%E9%9D%9E%E7%BA%BF%E6%80%A7SVM)
+- [Sklearn构建SVM分类器](https://github.com/yaoguangju/machine_learning/tree/master/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/3.Sklearn%E6%9E%84%E5%BB%BASVM%E5%88%86%E7%B1%BB%E5%99%A8)
+
 ## 参考资料
 - [机器学习实战](https://github.com/yaoguangju/shared_documents)
