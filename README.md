@@ -14,20 +14,26 @@
 - [朴素贝叶斯之过滤垃圾邮件](https://github.com/yaoguangju/machine_learning/tree/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%AE%97%E6%B3%95/2.%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%B9%8B%E8%BF%87%E6%BB%A4%E5%9E%83%E5%9C%BE%E9%82%AE%E4%BB%B6)
 - [朴素贝叶斯之新浪新闻分类](https://github.com/yaoguangju/machine_learning/tree/master/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%AE%97%E6%B3%95/3.%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%B9%8B%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB%E5%88%86%E7%B1%BB)
 
-## 4.线性回归
-- [揭开回归的神秘面纱](https://github.com/yaoguangju/machine_learning/tree/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/1.%E6%8F%AD%E5%BC%80%E5%9B%9E%E5%BD%92%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1)
-- [预测鲍鱼的年龄](https://github.com/yaoguangju/machine_learning/tree/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/2.%E9%A2%84%E6%B5%8B%E9%B2%8D%E9%B1%BC%E7%9A%84%E5%B9%B4%E9%BE%84)
-- [预测乐高玩具套件的价格](https://github.com/yaoguangju/machine_learning/tree/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/3.%E9%A2%84%E6%B5%8B%E4%B9%90%E9%AB%98%E7%8E%A9%E5%85%B7%E5%A5%97%E4%BB%B6%E7%9A%84%E4%BB%B7%E6%A0%BC)
 
-## 5.Logistic回归
+## 4.Logistic回归
 - [梯度上升算法](https://github.com/yaoguangju/machine_learning/tree/master/Logistic%E5%9B%9E%E5%BD%92/1.%E6%A2%AF%E5%BA%A6%E4%B8%8A%E5%8D%87%E7%AE%97%E6%B3%95)
 - [从疝气病症状预测病马的死亡率](https://github.com/yaoguangju/machine_learning/tree/master/Logistic%E5%9B%9E%E5%BD%92/2.%E4%BB%8E%E7%96%9D%E6%B0%94%E7%97%85%E7%97%87%E7%8A%B6%E9%A2%84%E6%B5%8B%E7%97%85%E9%A9%AC%E7%9A%84%E6%AD%BB%E4%BA%A1%E7%8E%87)
 
 
-## 6.支持向量机
+## 5.支持向量机
 - [线性SVM](https://github.com/yaoguangju/machine_learning/tree/master/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/1.%E7%BA%BF%E6%80%A7SVM)
 - [非线性SVM](https://github.com/yaoguangju/machine_learning/tree/master/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/2.%E9%9D%9E%E7%BA%BF%E6%80%A7SVM)
 - [Sklearn构建SVM分类器](https://github.com/yaoguangju/machine_learning/tree/master/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/3.Sklearn%E6%9E%84%E5%BB%BASVM%E5%88%86%E7%B1%BB%E5%99%A8)
+
+## 6.AdaBoost元算法
+- [AdaBoost算法](https://github.com/yaoguangju/machine_learning/tree/master/AdaBoost%E7%AE%97%E6%B3%95/1.AdaBoost%E7%AE%97%E6%B3%95)
+- [预测病马死亡率](https://github.com/yaoguangju/machine_learning/tree/master/AdaBoost%E7%AE%97%E6%B3%95/2.%E9%A2%84%E6%B5%8B%E7%97%85%E9%A9%AC%E6%AD%BB%E4%BA%A1%E7%8E%87)
+
+## 7.线性回归
+- [揭开回归的神秘面纱](https://github.com/yaoguangju/machine_learning/tree/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/1.%E6%8F%AD%E5%BC%80%E5%9B%9E%E5%BD%92%E7%9A%84%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1)
+- [预测鲍鱼的年龄](https://github.com/yaoguangju/machine_learning/tree/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/2.%E9%A2%84%E6%B5%8B%E9%B2%8D%E9%B1%BC%E7%9A%84%E5%B9%B4%E9%BE%84)
+- [预测乐高玩具套件的价格](https://github.com/yaoguangju/machine_learning/tree/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/3.%E9%A2%84%E6%B5%8B%E4%B9%90%E9%AB%98%E7%8E%A9%E5%85%B7%E5%A5%97%E4%BB%B6%E7%9A%84%E4%BB%B7%E6%A0%BC)
+
 
 ## 参考资料
 - [机器学习实战](https://github.com/yaoguangju/shared_documents)
