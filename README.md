@@ -34,6 +34,7 @@
 - [预测鲍鱼的年龄](https://github.com/yaoguangju/machine_learning/tree/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/2.%E9%A2%84%E6%B5%8B%E9%B2%8D%E9%B1%BC%E7%9A%84%E5%B9%B4%E9%BE%84)
 - [预测乐高玩具套件的价格](https://github.com/yaoguangju/machine_learning/tree/master/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/3.%E9%A2%84%E6%B5%8B%E4%B9%90%E9%AB%98%E7%8E%A9%E5%85%B7%E5%A5%97%E4%BB%B6%E7%9A%84%E4%BB%B7%E6%A0%BC)
 
-
+## 8.K-均值聚类算法
+- [K-均值聚类算法](https://github.com/yaoguangju/machine_learning/tree/master/K-均值聚类算法)
 ## 参考资料
 - [机器学习实战](https://github.com/yaoguangju/shared_documents)
